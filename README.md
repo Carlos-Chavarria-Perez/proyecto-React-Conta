@@ -1,2 +1,2 @@
 # proyecto-React-Conta
-Proyecto de prueba para apender a usar Github
+Proyecto de prueba para apender a usar Github para test 
